@@ -20,3 +20,9 @@ Feature :
 Prerequisites:
 
 python 3 interpreter.
+
+#Screenshots:
+
+![hangmangame0](https://user-images.githubusercontent.com/52665339/122667591-36a3b300-d1d1-11eb-95b1-f652a12c81ad.PNG)
+
+![hangmangame1](https://user-images.githubusercontent.com/52665339/122667603-47542900-d1d1-11eb-815d-e78941034bde.PNG)
